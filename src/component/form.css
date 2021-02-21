@@ -1,0 +1,96 @@
+.para{
+font-family: 'IBM Plex Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+text-align: center;
+padding: 1rem  1rem  1rem  1rem;
+color: #707070;
+}
+.contain2{
+    max-width: 65rem;
+    padding-left: 6rem;
+    padding-bottom: 2rem;
+}
+
+.para:hover{
+    background-color:#1E2531;
+    color: #FFFFFF;
+
+}
+.para span{
+    font-family: 'IBM Plex Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 20px;
+    background-color: #FFEACB;
+    color: #1E2531;
+    border-radius: 100%;
+}
+
+/*
+.background{
+    max-width: 60rem;
+    margin-left: 3rem;
+    background-color:   #F6F6F6;
+}
+.para1{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+     identical to box height, or 143% 
+    color: #707070;
+    padding-left: 6rem;
+    text-align: center;
+    
+}
+.para2{
+    font-family:  'IBM Plex Sans', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 32px;
+ identical to box height, or 178% 
+padding-left: 11rem;
+padding-top: 10px;
+
+color: #707070;
+}
+
+.t1{
+    margin-left: -20rem;
+    padding-top: 5px;
+}
+.t2{
+    margin-left: -40rem;
+    padding-top: 5px; 
+}
+.t3{
+    margin-top: 5px;
+}
+.border{
+
+    max-width: 60rem;
+    margin-left: 3rem;
+    
+border: 1.3px solid rgba(30, 37, 49, 0.1);
+
+}
+*/
+.para3{
+
+}
+
+@media only screen and (max-width:600px){
+    .contain2{
+        max-width: 65rem;
+        padding-left: 1rem;
+        padding-bottom: 2rem;
+    }
+
+}

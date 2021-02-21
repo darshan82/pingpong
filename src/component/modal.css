@@ -1,0 +1,14 @@
+.modal-body {
+    height: 400px !important;
+  }
+  .modal-open, .modal{
+    background-color: #080808 !important;
+  }
+  #contained-modal-title-vcenter{
+    margin-top: 20% !important;
+  }
+  .btn{
+    width: 180px;
+    height: 50px;
+    background-color:#1E2531;
+  }

@@ -1,0 +1,143 @@
+.site-footer
+{
+  
+ 
+  margin-top: 3rem;
+  background-color:  #FAFAFA;
+
+  padding:45px 0 20px;
+  font-size:15px;
+  line-height:24px;
+  color:#707070;
+}
+.contain{
+  margin-left: 16rem;
+}
+@media only screen and (max-width:600px){
+  .contain{
+    max-width: 20rem;
+    margin-left: 4rem;
+  }
+  .copyright-text
+  {
+    color: #707070;
+    padding-top: 5px;
+    font-family: 'IBM Plex Sans', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  
+  }
+
+
+}
+.text-justify{
+max-width: 22rem;
+}
+.site-footer h6
+{
+  color:#707070;
+
+  
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 21px;
+  /* identical to box height */
+  
+  
+}
+
+
+.site-footer .social-icons
+{
+  text-align:left
+}
+.site-footer .social-icons li
+{
+  display: grid;
+  
+  width:40px;
+  height:40px;
+  line-height:40px;
+  margin-left:6px;
+  margin-right:0;
+  
+  color:#707070;
+}
+.copyright-text
+{
+  padding-top: 2rem;
+  font-family: 'IBM Plex Sans', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+
+}
+@media (max-width:991px)
+{
+  .site-footer [class^=col-]
+  {
+    margin-bottom:30px
+  }
+}
+@media (max-width:767px)
+{
+  .site-footer
+  {
+    padding-bottom:0
+  }
+  .site-footer .copyright-text,.site-footer .social-icons
+  {
+    text-align:center
+  }
+}
+.social-icons
+{
+  
+  padding-left:0;
+  margin-bottom:0;
+  list-style:none
+}
+.social-icons li
+{
+  color: #ad9393;
+
+  display:inline-block;
+  margin-bottom:4px
+}
+
+.social-icons a{
+ 
+  color: #707070;
+
+  font-size:16px;
+  display:inline-block;
+  line-height:44px;
+  width:44px;
+  height:44px;
+  text-align:center;
+  margin-right:8px;
+
+}
+
+.social-icons.size-sm a
+{
+  line-height:34px;
+  height:34px;
+  width:34px;
+  font-size:14px
+}
+
+@media (max-width:767px)
+{
+  .social-icons li.title
+  {
+    display:block;
+    margin-right:0;
+    font-weight:600
+  }
+}

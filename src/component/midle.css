@@ -1,0 +1,90 @@
+ 
+ .contain3{
+  margin-top: 30rem;
+ }
+ .text1{
+    font-family:  'IBM Plex Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 50px;
+    /* identical to box height, or 125% */
+    
+    
+    color: #1E2531;
+    
+}
+.text2{
+font-family: 'IBM Plex Sans', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 45px;
+/* identical to box height, or 161% */
+
+
+color: #1E2531;
+}
+.loc1{
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 200px;
+    top: 530px;
+}
+
+.loc2{
+    position: absolute;
+width: 520px;
+height: 45px;
+left: 200px;
+top: 640px;
+}
+
+
+@media only screen and (max-width:600px){
+    .contain3{
+        margin-top: 16rem;
+        margin-bottom: 5rem;
+       }
+       .loc1{
+        position: absolute;
+        width: 200px;
+        height: 50px;
+        left: 120px;
+        top: 230px;
+    }
+    
+    .loc2{
+        position: absolute;
+    width: 340px;
+    height: 45px;
+    left: 30px;
+    top: 300px;
+    }
+
+.text1{
+   font-family:  'IBM Plex Sans', sans-serif;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 25px;
+   line-height: 50px;
+   /* identical to box height, or 125% */
+   
+   
+   color: #1E2531;
+   
+}
+.text2{
+font-family: 'IBM Plex Sans', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 45px;
+/* identical to box height, or 161% */
+
+
+color: #1E2531;
+}
+
+}

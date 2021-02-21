@@ -1,0 +1,56 @@
+.para1{
+    font-family: 'IBM Plex Sans', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+background-color:  #F6F6F6;;
+
+color: #707070;
+}
+
+.para2{
+
+    font-family:'IBM Plex Sans', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+padding-left: 10rem;
+
+
+color: #707070;
+}
+.width{
+    max-width: 60rem;
+    margin-left: 8rem;
+    
+}
+
+@media only screen and (max-width:600px){
+
+
+    .width{
+        max-width: 40rem;
+        margin-left: 1px;
+        
+    }
+ 
+    .p2{
+        padding-left: 1rem;
+    }
+
+    
+.para2{
+
+
+/* identical to box height, or 143% */
+padding-left: 4rem;
+
+}
+}
+.p2{
+    padding-left: 8rem;
+}

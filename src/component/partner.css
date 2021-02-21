@@ -1,0 +1,39 @@
+
+.contain1{
+
+text-align: center;
+    max-width: 40rem;
+    margin-top: 8rem;
+}
+.link{
+    width: 100px;
+    height: auto;
+}
+.rocket{
+    width: 100px;
+    height: auto;
+}
+.sara{
+    width: 100px;
+    height: auto;
+}
+
+@media only screen and (max-width:600px){
+
+
+.link{
+    width: 200px;
+    height: auto;
+    padding-top: 3rem;
+}
+.rocket{
+    width: 200px;
+    height: auto;
+    padding-top: 3rem;
+}
+.sara{
+    width: 200px;
+    height: auto;
+    padding-top: 3rem;
+}
+}

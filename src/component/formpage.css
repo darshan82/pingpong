@@ -1,0 +1,553 @@
+input{
+    background-color: #FFFFFF;
+    border: 1px solid rgba(7, 10, 15, 0.15);
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+
+.paraf{
+    position: absolute;
+    width: 287px;
+    height: 36px;
+    left: 175px;
+    top: 80px;
+
+    font-family:   'IBM Plex Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 36px;
+    
+    color: #1E2531;
+
+}
+.input1{
+    position: absolute;
+width: 480px;
+height: 53px;
+left: 340px;
+top: 330px;
+}
+
+.line{
+    position: absolute;
+width: 800px;
+height: 0px;
+left: 220px;
+top: 190px;
+
+border: 1px solid #1E2531;
+
+}
+
+.parainp1{
+    position: absolute;
+    width: 57px;
+    height: 26px;
+    left: 340px;
+    top: 290px;
+    
+    font-family:   'IBM Plex Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    
+    color: #1E2531;
+    
+}
+
+.parainp2{
+    position: absolute;
+    width: 100px;
+    height: 26px;
+    left: 340px;
+    top: 430px;
+    
+    font-family:   'IBM Plex Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    
+    color: #1E2531;
+}
+
+.input2{
+    position: absolute;
+width: 480px;
+height: 53px;
+left: 340px;
+top: 470px;
+}
+
+.parainp3{
+
+    position: absolute;
+    width: 57px;
+    height: 26px;
+    left: 340px;
+    top: 570px;
+    
+    font-family:   'IBM Plex Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    
+    color: #1E2531;
+}
+
+.input3{
+    position: absolute;
+width: 480px;
+height: 53px;
+left: 340px;
+top: 610px;
+}
+
+.parainp4{
+    position: absolute;
+    width: 200px;
+    height: 26px;
+    left: 340px;
+    top: 710px;
+    
+    font-family:   'IBM Plex Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    
+    color: #1E2531;
+}
+.input4{
+    position: absolute;
+width: 480px;
+height: 53px;
+left: 340px;
+top: 750px;
+}
+
+.parainp5{
+    position: absolute;
+    width:  200px;
+    height: 26px;
+    left: 340px;
+    top: 850px;
+    
+    font-family:   'IBM Plex Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    
+    color: #1E2531;
+}
+
+.input5{
+    position: absolute;
+width: 480px;
+height: 53px;
+left: 340px;
+top: 890px;
+}
+
+textarea{
+
+    background: #FFFFFF;
+border: 1px solid rgba(30, 37, 49, 0.15);
+box-sizing: border-box;
+border-radius: 3px;
+}
+
+.parainp6{
+    position: absolute;
+    width: 100px;
+    height: 26px;
+    left: 340px;
+    top: 990px;
+    
+    font-family:   'IBM Plex Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    
+    color: #1E2531;
+}
+
+.input6{
+
+
+    position: absolute;
+width: 660px;
+height: 200px;
+left: 340px;
+top: 1030px;
+
+
+}
+
+.parainp7{
+    position: absolute;
+    width: 322px;
+    height: 26px;
+    left: 340px;
+    top: 1285px;
+    
+    font-family:   'IBM Plex Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    
+    color: #1E2531;
+
+}
+
+.input7{
+    position: absolute;
+    width: 660px;
+    height: 200px;
+    left: 340px;
+    top: 1330px;
+}
+
+.btnp1{
+    position: absolute;
+    width: 110px;
+    height: 53px;
+    left: 840px;
+    top: 750px;
+
+}
+.btna{
+    font-family:   'IBM Plex Sans', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+
+padding: 1rem 2rem 1rem 2rem ;
+color: #707070;
+    background: rgba(112, 112, 112, 0.2);
+    border-radius: 3px;
+    border: none;
+}
+
+.btnb{
+    font-family:   'IBM Plex Sans', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+
+padding: 1rem 2rem 1rem 2rem ;
+color: #707070;
+    background: rgba(112, 112, 112, 0.2);
+border-radius: 3px;
+border: none;
+}
+
+.btnp2{
+    position: absolute;
+    width: 110px;
+    height: 53px;
+    left: 840px;
+    top: 890px;
+    
+}
+
+.btnp3{
+
+    position: absolute;
+width: 400px;
+height: 20px;
+left: 484px;
+top: 1669px;
+}
+
+.btnc{
+
+    font-family:   'IBM Plex Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    padding:1rem 6rem 1rem 6rem ;
+    /* identical to box height, or 100% */
+    
+    
+    color: #FFFFFF;
+    background-color: #1E2531;
+}
+.footerp{
+ margin-top: 120rem;
+}
+
+@media only screen and (max-width:600px){
+
+    .paraf{
+        position: absolute;
+        width: 220px;
+        height: 36px;
+        left: 25px;
+        top: 45px;
+  
+        font-size: 14px;
+        line-height: 36px;
+    
+    }
+    .line{
+        position: absolute;
+    width: 320px;
+    height: 0px;
+    left: 25px;
+    top: 160px;
+    
+    border: 1px solid #1E2531;
+    
+    }
+    .input1{
+        position: absolute;
+    width: 400px;
+    height: 53px;
+    left: 40px;
+    top: 330px;
+    }
+
+    .parainp1{
+        position: absolute;
+        width: 57px;
+        height: 26px;
+        left: 40px;
+        top: 290px;
+        
+        font-family:   'IBM Plex Sans', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 26px;
+        /* identical to box height */
+        
+        
+        color: #1E2531;
+        
+    }
+    
+    .parainp2{
+        position: absolute;
+        width: 100px;
+        height: 26px;
+        left: 40px;
+        top: 430px;
+        
+        font-family:   'IBM Plex Sans', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 26px;
+        /* identical to box height */
+        
+        
+        color: #1E2531;
+    }
+    
+    .input2{
+        position: absolute;
+    width: 400px;
+    height: 53px;
+    left: 40px;
+    top: 470px;
+    }
+    
+    .parainp3{
+    
+        position: absolute;
+        width: 57px;
+        height: 26px;
+        left: 40px;
+        top: 570px;
+        
+        font-family:   'IBM Plex Sans', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 26px;
+        /* identical to box height */
+        
+        
+        color: #1E2531;
+    }
+    
+    .input3{
+        position: absolute;
+    width: 400px;
+    height: 53px;
+    left: 40px;
+    top: 610px;
+    }
+    
+    .parainp4{
+        position: absolute;
+        width: 200px;
+        height: 26px;
+        left: 40px;
+        top: 710px;
+        
+        font-family:   'IBM Plex Sans', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 26px;
+        /* identical to box height */
+        
+        
+        color: #1E2531;
+    }
+    .input4{
+        position: absolute;
+    width: 400px;
+    height: 53px;
+    left: 40px;
+    top: 750px;
+    }
+    
+    .parainp5{
+        position: absolute;
+        width:  200px;
+        height: 26px;
+        left: 40px;
+        top: 850px;
+        
+        font-family:   'IBM Plex Sans', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 26px;
+        /* identical to box height */
+        
+        
+        color: #1E2531;
+    }
+    
+    .input5{
+        position: absolute;
+    width: 400px;
+    height: 53px;
+    left: 40px;
+    top: 890px;
+    }
+    
+    textarea{
+    
+        background: #FFFFFF;
+    border: 1px solid rgba(30, 37, 49, 0.15);
+    box-sizing: border-box;
+    border-radius: 3px;
+    }
+    
+    .parainp6{
+        position: absolute;
+        width: 100px;
+        height: 26px;
+        left: 40px;
+        top: 990px;
+        
+        font-family:   'IBM Plex Sans', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 26px;
+        /* identical to box height */
+        
+        
+        color: #1E2531;
+    }
+    
+    .input6{
+    
+    
+        position: absolute;
+    width: 400px;
+    height: 200px;
+    left: 40px;
+    top: 1030px;
+    
+    
+    }
+    
+    .parainp7{
+        position: absolute;
+        width: 322px;
+        height: 26px;
+        left: 40px;
+        top: 1285px;
+        
+        font-family:   'IBM Plex Sans', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 26px;
+        /* identical to box height */
+        
+        
+        color: #1E2531;
+    
+    }
+    
+    .input7{
+        position: absolute;
+        width: 400px;
+        height: 200px;
+        left: 40px;
+        top: 1330px;
+    }
+    .btnp1{
+        position: absolute;
+        width: 110px;
+        height: 53px;
+        left: 330px;
+        top: 800px;
+    
+    }
+
+    .btnp2{
+        position: absolute;
+        width: 110px;
+        height: 53px;
+        left: 330px;
+        top: 940px;
+        
+    }
+    
+    .btnp3{
+    
+        position: absolute;
+    width: 400px;
+    height: 20px;
+    left: 40px;
+    top: 1669px;
+    }
+    .footerp{
+        margin-top: 110rem;
+       }
+
+}

@@ -1,0 +1,200 @@
+.para5{
+     position: absolute;
+width: 320px;
+height: 36px;
+left: 180px;
+top: 70px; 
+
+font-family:'IBM Plex Sans', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 36px;
+
+
+color: #1E2531;
+
+}
+.linetxt{
+    /* position: absolute;
+width: 800px;
+height: 0px;
+left: 220px;
+top: 180px; */
+width: 80%;
+height: 1px;
+background-color: #1E2531;   
+border: 1px solid #1E2531;
+margin-top: 5rem;
+margin-bottom: 20px;
+margin-left: 10rem;
+}
+
+.date{
+
+text-align: right; 
+/* position: absolute;
+width: 150px;
+height: 20px;
+left: 860px;
+top: 80px; */
+
+font-family:   'IBM Plex Sans', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 111% */
+
+
+color: #707070;
+
+}
+
+/*
+.para6{
+    position: absolute;
+width: 930px;
+height: 960px;
+left: 280px;
+top: 260px;
+margin-top: 4rem;
+
+font-family: 'IBM Plex Sans', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 32px;
+
+
+
+color: #1E2531;
+
+
+*/
+
+.btn1{
+    /* margin-top: 5rem;
+    align-self: center; */
+    margin-left: 3px;
+    margin-right: 5px;
+    padding: 0.5rem 1rem 0.5rem 1rem ;
+    border: none;
+    border-radius: 0px;
+    background: rgba(112, 112, 112, 0.5);
+}
+.btn2{
+    margin-left: 5px;
+    margin-right: 3px;
+    padding: 0.5rem 1rem 0.5rem 1rem ;
+    border: none;
+    border-radius: 0px;
+background-color: #1E2531;;
+}
+.footertxt{
+
+    margin-top: 1.3rem;
+}
+@media only screen and (max-width:600px){
+
+   
+
+    /* .para5{
+        position: absolute;
+    width: 220px;
+    height: 36px;
+    left: 20px;
+    top:30px;
+    
+    font-family:'IBM Plex Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 36px;
+    
+    color: #1E2531;
+    
+    } */
+
+    .para6{
+        position: absolute;
+    width: 480px;
+    height: 760px;
+    left: 50px;
+    top: 200px;
+    
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    /* or 178% */
+    
+    
+    color: #1E2531;
+    
+    }
+
+    /* .btn1{
+        margin-top: 4rem;
+        align-self: center;
+        padding: 0.5rem 1rem 0.5rem 1rem ;
+        border: none;
+        border-radius: 0px;
+        background-color: rgba(112, 112, 112, 0.5);
+       
+    }
+    .btn2{
+        
+        margin-left: 1rem;
+        margin-top: 4rem;
+        padding: 0.5rem 1rem 0.5rem 1rem ;
+        border: none;
+        border-radius: 0px;
+    background-color: #1E2531;
+  
+    } */
+
+    .footertxt{
+
+        margin-top: 1.3rem;
+    }
+
+
+    /* .date{
+
+    
+        position: absolute;
+        width: 130px;
+        height: 20px;
+        left: 270px;
+        top: 40px;
+        
+        font-family:  'IBM Plex Sans', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 20px;
+        identical to box height, or 111%x
+        
+        
+        color: #707070;
+        
+        } */
+
+
+}
+
+
+
+ul {
+    margin: 0;
+  }
+  ul.dashed {
+    list-style-type: none;
+  }
+  ul.dashed > li {
+    text-indent: -5px;
+    
+  }
+
