@@ -1,5 +1,5 @@
 import React from 'react';
-import './arow.css';
+import '../style/arow.css';
 
 export default function Arow() {
     return (

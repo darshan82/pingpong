@@ -1,15 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
-import Navbar from './component/Navbar';
-import HeroSection from './component/HeroSection';
-import Footer from './component/Footer';
-import Partner from './component/Partner';
-import Midle from './component/Midle';
-import Form from './component/Form';
-import Table from './component/Table';
-import Arow from './component/Arow';
-import Text from './component/Text';
-import MydModalWithGrid from './component/Modal';
+import Navbar from './component/components/Navbar';
+import HeroSection from './component/components/HeroSection';
+import Footer from './component/components/Footer';
+import Partner from './component/components/Partner';
+import Midle from './component/components/Midle';
+import Form from './component/components/Form';
+import Table from './component/components/Table';
+import Arow from './component/components/Arow';
+import Text from './component/components/Text';
+import MydModalWithGrid from './component/components/Modal';
 import { useState } from 'react';
 
 

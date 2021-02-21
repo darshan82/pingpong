@@ -3,7 +3,7 @@ import React from 'react';
 import { facebook } from '@fortawesome/free-solid-svg-icons';
 
 
-import './footer.css';
+import '../style/footer.css';
 
 export default function Footer() {
     return (

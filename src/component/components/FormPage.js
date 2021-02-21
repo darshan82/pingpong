@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from './Navbar';
-import  './formpage.css';
+import  '../style/formpage.css';
 import {Col,Row,Container} from 'react-bootstrap';
 import Footer from './Footer';
 

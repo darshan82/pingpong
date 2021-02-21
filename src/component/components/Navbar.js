@@ -1,6 +1,6 @@
 import React from 'react';
-import './navbar.css';
-import logo from "./logo.png"
+import '../style/navbar.css';
+import logo from "../../asserts/logos/logo.png"
 
 
 export default function Navbar(props) {

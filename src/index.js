@@ -2,11 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import App from './App';
-import Table from './component/Table';
-import Text from './component/Text';
-import FormPage from './component/FormPage';
-import Navbar from './component/Navbar';
-import Modal from './component/Modal';
+import Table from './component/components/Table';
+import Text from './component/components/Text';
+import FormPage from './component/components/FormPage';
+import Navbar from './component/components/Navbar';
+import Modal from './component/components/Modal';
 
 
 

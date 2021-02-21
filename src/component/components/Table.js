@@ -1,5 +1,5 @@
 import React from 'react';
-import './table.css';
+import '../style/table.css';
 import {Row,Col,Container} from 'react-bootstrap';
 
 export default function Table() {

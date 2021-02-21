@@ -1,5 +1,5 @@
 import React from 'react'
-import MydModalWithGrid from './Modal'
+import MydModalWithGrid from '../style/Modal'
 
 export default function PRPage() {
     

@@ -1,5 +1,5 @@
 import React from 'react';
-import './form.css';
+import '../style/form.css';
 import {Row,Col,Container} from 'react-bootstrap';
 
 export default function Form() {

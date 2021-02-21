@@ -1,5 +1,5 @@
 import React from 'react';
-import './partner.css';
+import '../style/partner.css';
 import{Col,Row,Container} from 'react-bootstrap';
 
 export default function Partner() {

@@ -1,5 +1,5 @@
 import React from 'react';
-import './midle.css'
+import '../style/midle.css'
 import {Col,Row,Container} from 'react-bootstrap';
 
 export default function Midle() {
